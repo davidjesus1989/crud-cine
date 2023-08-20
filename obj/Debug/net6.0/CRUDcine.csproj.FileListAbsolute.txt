@@ -1,0 +1,15 @@
+C:\Users\user-pc\Desktop\crud cine C#\CRUDcine\obj\Debug\net6.0\CRUDcine.csproj.AssemblyReference.cache
+C:\Users\user-pc\Desktop\crud cine C#\CRUDcine\obj\Debug\net6.0\CRUDcine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user-pc\Desktop\crud cine C#\CRUDcine\obj\Debug\net6.0\CRUDcine.AssemblyInfoInputs.cache
+C:\Users\user-pc\Desktop\crud cine C#\CRUDcine\obj\Debug\net6.0\CRUDcine.AssemblyInfo.cs
+C:\Users\user-pc\Desktop\crud cine C#\CRUDcine\obj\Debug\net6.0\CRUDcine.csproj.CoreCompileInputs.cache
+C:\Users\user-pc\Desktop\crud cine C#\CRUDcine\bin\Debug\net6.0\CRUDcine.exe
+C:\Users\user-pc\Desktop\crud cine C#\CRUDcine\bin\Debug\net6.0\CRUDcine.deps.json
+C:\Users\user-pc\Desktop\crud cine C#\CRUDcine\bin\Debug\net6.0\CRUDcine.runtimeconfig.json
+C:\Users\user-pc\Desktop\crud cine C#\CRUDcine\bin\Debug\net6.0\CRUDcine.dll
+C:\Users\user-pc\Desktop\crud cine C#\CRUDcine\bin\Debug\net6.0\CRUDcine.pdb
+C:\Users\user-pc\Desktop\crud cine C#\CRUDcine\obj\Debug\net6.0\CRUDcine.dll
+C:\Users\user-pc\Desktop\crud cine C#\CRUDcine\obj\Debug\net6.0\refint\CRUDcine.dll
+C:\Users\user-pc\Desktop\crud cine C#\CRUDcine\obj\Debug\net6.0\CRUDcine.pdb
+C:\Users\user-pc\Desktop\crud cine C#\CRUDcine\obj\Debug\net6.0\CRUDcine.genruntimeconfig.cache
+C:\Users\user-pc\Desktop\crud cine C#\CRUDcine\obj\Debug\net6.0\ref\CRUDcine.dll
